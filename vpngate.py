@@ -92,7 +92,7 @@ EDGE_HOSTS = [
 ]
 
 # 优选 API 地址配置 (支持逗号分隔多个，可配置在 GitHub Action Secret / Env 中)
-OPTIMAL_API = os.environ.get("OPTIMAL_API", "https://cf.090227.xyz/cmcc?ips=8&port=443,https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain.txt
+OPTIMAL_API = os.environ.get("OPTIMAL_API", "https://cf.090227.xyz/cmcc?ips=8&port=443,https://raw.githubusercontent.com/LancelotRar/best-cf-domains/main/best-cf-domain.txt,
 https://ip.jsnzkpg.ccwu.cc/edgetunnel/AE-AL-AM-AR-AT-AU-AZ-BE-BG-BR-BY-CA-CH-CL-CN-CY-CZ-DE-DK-EE-EG-ES-FI-FR-GB-GE-GR-GT-HK-HU-ID-IE-IL-IN-IR-IS-IT-JP-KG-KH-KR-KZ-LT-LV-MA-MD-MO-MX-MY-NG-NL-NO-OM-PH-PL-PT-PY-RO-RS-RU-SA-SE-SG-SK-TH-TR-TW-UA-US-UZ-VN-ZA?limit=5,
 https://hhyxip.pages.dev/edgetunnel/DE-NL-US-FI-GB-JP-SG-FR-LV-PL-HK-SE-CH-ES-EE-KZ-CZ-CA-RU-KR-BG-TR-AT-RO-IN-DK-LT-AU-IT-TW-MY-MD-AE-RS-IE-VN-IS-NO-HU-MX-BR-BY-IL-GR-ZA-BE-ID-AL-AM-TH-UA-GE-CY-PT-CL-KG-PH-UZ-SK-SA-AR-MO-AZ-NG-OM-GT-IR-PY-KH-EG-MA?limit=5")
 
